@@ -134,6 +134,10 @@ input{
     font-weight: bold;
 }
 
+/*students are viewing*/
+#viewing{
+    padding: 5px 120px;
+}
 
 /*section three*/
 .explore-div{
@@ -166,6 +170,13 @@ input{
     align-items: center;
     gap: 7px;
     margin-top: 30px;
+}
+.course-box{
+    line-height: 1.3rem;
+}
+
+.diff{
+    padding-bottom: 24px;
 }
 
 .course-box img{
